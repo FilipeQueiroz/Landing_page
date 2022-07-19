@@ -82,4 +82,20 @@ h1{
     
 }
 
+/*.pag2 p {
+    color: #fff;;
+    padding: 10px;
+    float:  right;
+    
+}*/
+.pag2{
+    background: #0e0e0e;
+}
+.numbers p {
+    color: gray;
+}
+.strongK{
+    font-size: 35px;
+    color:#fff; 
+    font-weight: bold;
 }
