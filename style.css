@@ -19,8 +19,6 @@ ul{
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
-
-
 }
 li{
     font-size: 20px;
@@ -32,7 +30,7 @@ li{
 
 .pag1{
     margin-top: 100px;
-    height:600px;
+    
     position: relative;
     border:5px solid #fff;
 }
@@ -71,4 +69,17 @@ h1{
 }
 .red{
     color:#ff5b50;
+}
+.images{
+    text-align: center;
+    margin-top: 100px;
+}
+.gallery{
+    width: 23%;
+    border: 1px solid #fff;
+    margin:8px;
+    margin-bottom: 30px;
+    
+}
+
 }
