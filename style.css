@@ -236,22 +236,27 @@ a{
 }
 .creator_box{
     color:#fff;
-    border:1px solid #fff;
     width: 300px;
     height: 120px;
     position: relative;
     background-color: #252525;;
+    margin-bottom: 100px;
 
 }
 .creator_box img{
     position: absolute;
     top: 0;
-    padding-top: 10px
-    
+    padding-top: 10px;
+    padding-left:20px;
     
 }
 .creator_box p{
     position: absolute;
     padding-top: 50px;
     margin-left: 160px;
+}
+.creator_box:hover .red,.creator_box:hover{
+    background: #ff5b50;
+    color: #fff;
+
 }
