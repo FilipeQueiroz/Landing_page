@@ -222,5 +222,36 @@ a{
     position: absolute;
     right: 50%;
     height: 620px;
+}
+.pag4{
+    background: #0e0e0e;
+    position: relative;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.pag4 h2{
+    color: #fff;
+    font-size: 35px;
+    text-align: center;
+}
+.creator_box{
+    color:#fff;
+    border:1px solid #fff;
+    width: 300px;
+    height: 120px;
+    position: relative;
+    background-color: #252525;;
 
+}
+.creator_box img{
+    position: absolute;
+    top: 0;
+    padding-top: 10px
+    
+    
+}
+.creator_box p{
+    position: absolute;
+    padding-top: 50px;
+    margin-left: 160px;
 }
