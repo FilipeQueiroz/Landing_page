@@ -1,0 +1,56 @@
+.pag1{
+    margin-top: 100px;
+    padding-right: 100px;
+    padding-left: 100px;
+    position: relative;
+    /* border:5px solid #fff; */
+}
+
+.tx1{
+    padding-top: 10px;
+    text-align: left;
+    color:#fff;
+}
+.artistas{
+    position: absolute;
+    width: 150px;
+}
+#txart{
+    position: absolute;
+    left: 250px;
+    color: #fff;
+    padding-top: 15px;    
+   
+}
+h1{
+    position: absolute;
+    right: 50%;
+    top: 0;
+    color:whitesmoke;
+    font-size: 35px;
+    padding-right: 30px;
+    transform: translateX(50%);
+}
+.badge{
+    position: absolute;
+    width: 150px;
+    right: 0;
+    top: 0;
+    padding-top: 15px;
+    padding-right: 100px;
+    
+}
+.red{
+    color:#ff5b50;
+}
+.images{
+    text-align: center;
+    margin-top: 100px;
+}
+.gallery{
+    width: 23%;
+    border: 1px solid #fff;
+    margin:8px;
+    margin-bottom: 30px;
+    
+}

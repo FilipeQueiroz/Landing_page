@@ -1,0 +1,82 @@
+.pag3{
+    background: #0e0e0e;
+    position: relative;
+    height: 1000px;
+    
+}
+.pag3 h2{
+    color: #fff;
+    font-size: 35px;
+    padding: 100px;
+    
+}
+.gallery_container{
+    position: absolute;
+    padding-left: 100px;
+    padding-right: 100px;
+    left:0;
+    
+}
+.astronaut{
+    color:white;
+    font-weight: bold;
+   
+}
+.arrows{
+    margin-left:192px;
+    width: 15px;
+    
+}
+.creators{
+    color:grey;
+    position: absolute;
+}
+.RKT{
+    color: #ff5b50;
+    padding-bottom: 35px;
+    float: right;
+    
+}
+
+.gallery2{
+    position: absolute;
+    width: 310px;
+    top: 80px ;
+
+      
+}
+
+.gallery_container2{
+    position: absolute;
+    padding-left: 100px;
+    padding-right: 100px;
+    right: 0;
+    
+}
+.gallery_container2 .arrows, .gallery_container3 .arrows{
+    margin-left:189px;
+}
+.gallery_container3{
+    position: absolute;
+    padding-left: 100px;
+    padding-right: 100px;
+    top:55%;
+
+}
+.gallery_container4{
+    position: absolute;
+    padding-left: 100px;
+    padding-right: 100px;
+    top:55%;
+    right: 0;
+
+}
+.gallery_container4 .arrows{
+    margin-left: 187px;
+}
+.vl{
+    border-left:1px solid grey;
+    position: absolute;
+    right: 50%;
+    height: 620px;
+}

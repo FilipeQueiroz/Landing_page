@@ -1,0 +1,94 @@
+.pag4{
+    background: #0e0e0e;
+    position: relative;
+    padding-left: 100px;
+    padding-right: 100px;
+    height: 600px;
+}
+.pag4 h2{
+    color: #fff;
+    font-size: 35px;
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+.box_container img{
+   
+    padding-top: 10px;
+    padding-left:20px;
+    
+}
+.box_container p{
+    color: #fff;
+    position: absolute;
+    padding-top: 50px;
+    margin-left: 160px;
+}
+
+.box_container div:hover{
+    background: #ff5b50;
+}
+
+.box_container div:hover .red{
+    color: #fff;
+}
+.creator_box0{
+    position: absolute;
+    width: 300px;
+    height: 120px;
+    margin-bottom: 100px;
+    background-color: #252525;;
+}
+.creator_box1{
+    position: absolute;
+    left: 520px;
+    width: 300px;
+    height: 120px;
+    background-color: #252525;
+}
+
+.creator_box2{
+    position: absolute;
+    right: 0;
+    width: 300px;
+    height: 120px;
+    margin-right: 100px;
+    background-color: #252525;
+}
+.creator_box3{
+    position: absolute;
+    top: 300px;
+    width: 300px;
+    height: 120px;
+    background-color: #252525;
+}
+.creator_box4{
+    position: absolute;
+    left: 520px;
+    top: 300px;
+    width: 300px;
+    height: 120px;
+    background-color: #252525;
+}
+.creator_box5{
+    position: absolute;
+    top: 300px;
+    right:0;
+    width: 300px;
+    height: 120px;
+    margin-right: 100px;
+    background-color: #252525;
+}
+.ltx{
+    position: absolute;
+    bottom: 100px;
+    right: 50%;
+    color: white;
+    transform: translateX(50%);
+}
+.orangearrow{
+    position: absolute;
+    bottom: 102px;
+    right: 42%;
+    width: 13px;
+}

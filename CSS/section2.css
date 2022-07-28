@@ -1,0 +1,55 @@
+.pag2{
+    background: #0e0e0e;
+    position: relative;
+    padding-top: 100px;
+}
+.numbers p {
+    padding-bottom: 30px;
+    color: gray;
+    padding-left: 100px;
+    
+}
+.numbers{
+    border-bottom:  1px  solid gray;
+    height: 350px;
+}
+.strongK{
+    font-size: 35px;
+    color:#fff; 
+    font-weight: bold;
+    
+}
+.paragraph1,.paragraph2{
+    padding-top: 100px;
+    position: absolute;
+    width: 400px;
+    color: #fff;
+    top: 0;
+    padding-left: 50px;
+}
+.paragraph1{
+    left: 700px;
+}
+
+.paragraph2{
+    right: 650px;
+    border-left: 1px solid gray;
+    padding-left: 10px;
+    padding-bottom: 25px;
+
+}
+a{
+    color: #fff;
+}
+
+.banner{
+    position: absolute;
+    right: 0;
+    width: 79.4%;
+    height: 200px;
+    object-fit:cover;
+    top: 0;
+    padding-top: 250px;
+    object-position: 5px -60%;
+    
+}
