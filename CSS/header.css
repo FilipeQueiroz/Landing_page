@@ -1,6 +1,11 @@
+
+header{
+    padding-right: 100px;
+    padding-left: 100px;
+}
 .logo{
     float: left;
-   
+    width: 40vh;
 }
 ul{ 
     position: absolute;
@@ -8,34 +13,18 @@ ul{
     transform: translateX(-50%);
 }
 li{
-    font-size: 20px;
+    font-size: 1.5em;
     color: white;
     float: right;
+    text-align: center;
     list-style: none;
     padding-right: 25px;
 }
-header{
-    padding-right: 100px;
-    padding-left: 100px;
-}
-.logometa{
-   position: absolute;
-   right: 0;
-   margin-right: 285px;
-   transform: translateY(16%);
-    
-}
-header p{
-    font-weight: bold;
-    color: black;
-    position: absolute;
-    background: #fff;
-    right: 0;
-    padding: 20px 20px 20px 40px;
-    margin-right: 100px;
-    top:48px;
 
-}
-header p:hover{
-    background: #ff5b50;
-}
+
+    
+
+    
+
+
+

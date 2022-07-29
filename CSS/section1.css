@@ -3,7 +3,7 @@
     padding-right: 100px;
     padding-left: 100px;
     position: relative;
-    /* border:5px solid #fff; */
+    
 }
 
 .tx1{
@@ -26,14 +26,14 @@ h1{
     position: absolute;
     right: 50%;
     top: 0;
-    color:whitesmoke;
+    color:#fff;
     font-size: 35px;
     padding-right: 30px;
     transform: translateX(50%);
 }
 .badge{
     position: absolute;
-    width: 150px;
+    width: 10%;
     right: 0;
     top: 0;
     padding-top: 15px;
@@ -54,3 +54,50 @@ h1{
     margin-bottom: 30px;
     
 }
+/* @media screen and (max-width:400px) { */
+    
+    .pag1{
+        margin-top: 10%;
+        padding-right: 10%;
+        padding-left: 10%;
+        position: relative;
+        height: 500px;
+    }
+    h1{
+        position: absolute;
+        color:#fff;
+        left: 50%;
+        font-size: 3em;
+        width: 150vw;
+        transform:translateX(50%);
+        
+        
+    }
+    /* .badge{
+        padding-right:  6%;
+    } */
+    .tx1{
+        position: absolute;
+        padding-top: 60vh;
+        font-size: 1.5em;
+        text-align: center;
+        color:#fff;
+        left: 50%;
+        width: 100vw;
+        transform: translateX(50%);
+    }
+    .artistas{
+        position: absolute;
+        padding-top: 50vh;
+        right: 30%;
+        
+        /* transform: translateX(50%); */
+    }
+    #txart{
+        position: absolute;
+        left: 20%;
+        color: #fff;
+        padding-top: 55vh;    
+        font-size: 1.5em;
+       
+    }

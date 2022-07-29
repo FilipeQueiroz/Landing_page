@@ -53,3 +53,9 @@ a{
     object-position: 250px -40px;
     
 }
+@media screen and (max-width:400px) {
+    .pag2{
+        margin-top: 2000px;
+    }
+    
+}
